@@ -24,7 +24,7 @@ body{
 }
 .cabecalho__menu{
     display: flex;
-    gap: 80px;
+    gap: 50px;
     align-items: center;
 }
 .logo {
@@ -36,6 +36,7 @@ body{
     font-weight: 600;
     color: var(--cor-terciaria);
     text-decoration: none;
+    
 }
 .apresentacao{
     padding: 5% 15%;
@@ -47,13 +48,13 @@ body{
 .curriculo {
     display: flex;
     align-items: center;
-
-    
     padding: 5% 15% 5% 30%;
+
     
 }
 .img__c {
-    width: 80%;
+    width: 100%;
+    text-align: center;
 }
 .apresentacao__conteudo{
     width: 50%;
