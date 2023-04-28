@@ -16,7 +16,7 @@
     }
     .cabecalho__menu__link{
         
-        font-size: 1.4rem;
+        font-size: 0.8rem;
         font-weight: 600;
         
         
@@ -31,12 +31,12 @@
         width: auto;
     }
     .apresentacao__conteudo__titulo{
-        font-size: 2.3rem;
+        font-size: 1.8rem;
         
     }
 
     .apresentacao__conteudo__texto{
-        font-size: 1.4rem;
+        font-size: 1rem;
         
     }
     .apresentacao__imagem{
