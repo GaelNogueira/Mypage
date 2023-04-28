@@ -25,8 +25,8 @@ body{
 .cabecalho__menu{
     display: flex;
     gap: 25px;
-    align-items: left;
-    justify-content: center;
+    align-items: center;
+    
 }
 .logo {
     width: 3.12rem;
