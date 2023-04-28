@@ -26,6 +26,7 @@ body{
     display: flex;
     gap: 25px;
     align-items: left;
+    justify-content: center;
 }
 .logo {
     width: 3.12rem;
@@ -64,14 +65,14 @@ body{
 }
 
 .apresentacao__conteudo__titulo{
-    font-size: 2.25rem;
+    font-size: 2rem;
     font-family: var(--fonte-primaria);
 }
 .titulo-destaque{
     color: var(--cor-terciaria);
 }
 .apresentacao__conteudo__texto{
-    font-size: 1.5rem;
+    font-size: 1.3rem;
     font-family: var(--fonte-secundaria);
 }
 
@@ -95,7 +96,7 @@ body{
     width: 50%;
     text-align: center;
     border-radius: 8px;
-    font-size: 1.5rem;
+    font-size: 1.4rem;
     font-weight: 600;
     padding: 21.5px 0;
     text-decoration: none;
@@ -114,6 +115,6 @@ body{
     padding: 24px;
     text-align: center;
     font-family: var(--fonte-secundaria);
-    font-size: 1.5rem;
+    font-size: 1.4rem;
     font-weight: 400;
 }
