@@ -24,7 +24,10 @@
     }
     .apresentacao {
         flex-direction: column-reverse;
-        padding: 5%;
+        padding: 2% 8%;
+        align-items: center;
+        justify-content: space-between;
+        gap: 41px;
         
     }
     .apresentacao__conteudo {
