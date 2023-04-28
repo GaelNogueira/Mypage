@@ -43,4 +43,11 @@
         width: 100%;
         
     }
+    .curriculo {
+        display: flex;
+        align-items: center;
+        padding: 2% 8% 2% 15%;
+    
+        
+    }
 }
