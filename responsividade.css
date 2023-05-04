@@ -1,4 +1,4 @@
-@media (max-width: 860px) {
+@media (max-width: 415px) {
    
     .cabecalho{
         padding: 10% 1%;
@@ -54,7 +54,7 @@
         
     }
 }
-@media (max-width: 1180px) {
+@media (max-width: 825px) {
    
     .cabecalho{
         padding: 10% 1%;
