@@ -24,7 +24,8 @@
     }
     .apresentacao {
         flex-direction: column-reverse;
-        padding: 5% 8%;
+        padding: 2% 8%;
+        margin-bottom: 5%;
         align-items: center;
         justify-content: space-between;
         gap: 41px;
