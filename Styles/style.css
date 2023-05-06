@@ -95,6 +95,19 @@ body {
   
 
 }
+
+.apresentaçao__conteudo__texto{
+    font-size: 19px;
+    font-family: var(--font-secundaria);
+    
+    line-height: 3px;
+
+}
+.about{
+    text-align: justify;
+
+}
+
 .apresentaçao__conteudo__subtexto{
     font-size: 19px;
     font-family: var(--font-secundaria);
