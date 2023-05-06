@@ -48,6 +48,9 @@
         
         
     }
+    .about {
+        text-align: justify;
+    }
     .apresentacao__imagem{
         width: 100%;
         
