@@ -77,6 +77,7 @@ body {
 .apresentaçao__conteudo__titulo{
     font-size: 33px ;
     font-family: var(--font-primaria);
+    line-height: 1.3em;
     
     
 }
@@ -91,6 +92,7 @@ body {
     font-family: var(--font-secundaria);
     text-align: justify;
     line-height: 3px;
+    line-height: 1.2em;
 
   
 
