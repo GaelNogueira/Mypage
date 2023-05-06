@@ -79,7 +79,7 @@ body{
 }
 .about {
     font-size: 19px;
-    font-family: var(--fonte-primaria);
+    font-family: var(--fonte-secundaria);
     text-align: justify;
     line-height: 1.2em;
 }
