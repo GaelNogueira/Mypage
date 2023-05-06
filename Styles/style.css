@@ -58,7 +58,7 @@ body {
     padding: 4% 15%;
     display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content: space-between;
 
 }
 .apresentaçao__conteudo {
