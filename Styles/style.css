@@ -77,7 +77,7 @@ body {
 .apresentaçao__conteudo__titulo{
     font-size: 33px ;
     font-family: var(--font-primaria);
-    text-align: justify;
+    
     
 }
 .apresentaçao__conteudo__subtitulo{
@@ -90,6 +90,7 @@ body {
     font-size: 19px;
     font-family: var(--font-secundaria);
     text-align: justify;
+
   
 
 }
