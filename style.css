@@ -75,6 +75,12 @@ body{
     font-size: 1.3rem;
     font-family: var(--fonte-secundaria);
 }
+.about {
+    font-size: 19px;
+    font-family: var(--font-secundaria);
+    text-align: justify;
+    line-height: 1.2em;
+}
 
 .apresentacao__links{
     display: flex;
